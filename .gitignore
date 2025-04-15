@@ -1,0 +1,21 @@
+# Ignore environment files
+.env
+.env.*
+env.ini
+
+# Python-specific ignores (optional, but commonly used)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
